@@ -51,7 +51,7 @@ spec:
         - containerPort: 8002
         resources:
           requests:
-            memory: "64Mi"
+            memory: "65Mi"
             cpu: "100m"
           limits:
             memory: "128Mi"
